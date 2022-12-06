@@ -12,7 +12,7 @@ for line in data:
     datastream = line
 
 i = 0
-j = 4
+j = 14
 repeat = True
 while repeat:
     check = check_marker(datastream[i:j])
